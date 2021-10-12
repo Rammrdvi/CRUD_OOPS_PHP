@@ -1,6 +1,6 @@
 <?php 
 //include database connection file
-include_once("classes/Crud.php");
+include_once("Crud.php");
 
 $crud = new Crud();
 
