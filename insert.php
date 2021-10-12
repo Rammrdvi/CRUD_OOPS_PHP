@@ -1,6 +1,6 @@
 <?php
-include_once("classes/Crud.php");
-include_once("classes/Validation.php");
+include_once("Crud.php");
+include_once("Validation.php");
 
 $crud = new Crud();
 $validation = new Validation();
