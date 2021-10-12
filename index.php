@@ -35,7 +35,7 @@ $result = $crud->getData($query);
 <div class="card col-md-8 divtable" style="margin: auto; margin-top: 4%; margin-bottom: 4%;">
 <div class="card-body">
 
-<a href="Addnew.php" class="btn btn-primary">Add New Data</a><br/><br/>
+<a href="AddEdit.php" class="btn btn-primary">Add New Data</a><br/><br/>
 
 	<table class="table table-striped table-hover">
 
